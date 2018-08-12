@@ -2,4 +2,5 @@
 def position_taken?(board, index)
   index_number = index - 1
   if board[index_number] == " "
+  end
 end
